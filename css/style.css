@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    padding-top: 100px;
+}
+.appointment-form{
+    background: #4DF5EE;
+}
+.appointment-text h2{
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    color: #D7EDEC;
+    font-weight: 700; 
+}
+form{
+    height: 350px;
+    width: 430px;
+    margin: 60px 40px;
+}
+.btn-2 a{
+    background: #52F3EC!important;
+    border-style: none;
+    border-radius: 5px;
+}
